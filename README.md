@@ -27,9 +27,9 @@ python detect.py --weights ./runs/train/exp/weights/best.pt --source ./BDD100K/i
 python test.py --data autodrive_data.yaml --weights ./runs/train/exp/weights/best.pt
 ```
 ## Results
-<img src="https://github.com/TtZJ2/yolov5-Pedestrian-Vehicle-Detection/blob/main/runs/detect/exp/a1.jpg" width="900">
-<img src="https://github.com/TtZJ2/yolov5-Pedestrian-Vehicle-Detection/blob/main/runs/detect/exp/a2.jpg" width="900">
-<img src="https://github.com/TtZJ2/yolov5-Pedestrian-Vehicle-Detection/blob/main/runs/detect/exp/a3.jpg" width="900">
+<img src="https://github.com/TtZJ2/yolov5-PV-Detection/blob/main/runs/detect/exp/a1.jpg" width="900">
+<img src="https://github.com/TtZJ2/yolov5-PV-Detection/blob/main/runs/detect/exp/a2.jpg" width="900">
+<img src="https://github.com/TtZJ2/yolov5-PV-Detection/blob/main/runs/detect/exp/a3.jpg" width="900">
 
 
 
