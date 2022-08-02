@@ -2,7 +2,7 @@
 
 # Pedestrian Vehicle Detection
 
-## Training data: BDD100K
+## Training data: BDD100K https://bdd-data.berkeley.edu/
 
 ## Classes of number：13   
 ['person','rider','car','bus','truck','bike','motor','tl_green','tl_red','tl_yellow','tl_none','traffic sign','train']
